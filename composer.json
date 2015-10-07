@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zendservice-google-gcm",
+    "name": "lafourchette/zendservice-google-gcm",
     "description": "OOP wrapper for Google Cloud Messaging",
     "type": "library",
     "keywords": [
@@ -30,5 +30,8 @@
     },
     "require-dev": {
         "phpunit/PHPUnit": "3.7.*"
+    },
+    "replace": {
+        "zendframework/ZendService_Google_Gcm": "~1.0.*"
     }
 }
