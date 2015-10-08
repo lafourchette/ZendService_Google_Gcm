@@ -32,6 +32,6 @@
         "phpunit/PHPUnit": "3.7.*"
     },
     "replace": {
-        "zendframework/ZendService_Google_Gcm": "~1.0.*"
+        "zendframework/ZendService_Google_Gcm": "~1.0"
     }
 }
